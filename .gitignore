@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Database
+*.db
+
+# Alembic
+alembic/versions/__pycache__/
+
+# Node
+node_modules/
+dist/
+
+# macOS
+.DS_Store
